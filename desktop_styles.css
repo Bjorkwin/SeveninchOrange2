@@ -79,6 +79,7 @@ html, body {
 
 .header_image {
   display: inline;
+  cursor: pointer;
 }
 
 .header_image > img {
